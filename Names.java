@@ -5,9 +5,13 @@ public class Names {
   }
 
 
+
   public static void priankHello()
   {
     System.out.println("Happy Thursday!");
+  }
+  public static void paulHello() {
+    System.out.println("Hiii!");
   }
 
   public static void makeTriangle(int rows){
@@ -17,8 +21,9 @@ public class Names {
       }
       System.out.println();
     }
+  }
   
-    public static void sebastianHello() {
+  public static void sebastianHello() {
     System.out.println("Happy THursday!");
   }
   
@@ -26,6 +31,9 @@ public class Names {
     secretMessage();
 
     priankHello();
+
+
+    paulHello();
 
     sebastianHello();
     makeTriangle(4);
