@@ -43,6 +43,7 @@ public class Names {
 
     sebastianHello();
     makeTriangle(4);
+    josephineNew();
     messageFromYvonne();
   }
 
