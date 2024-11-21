@@ -35,7 +35,7 @@ public class Names {
   }
 
   public static void sebastian2() {
-    System.out.println("Howdy!");
+    System.out.println("Howdy hey!");
   }
   
   public static void main(String[] args) {
