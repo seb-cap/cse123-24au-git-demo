@@ -4,7 +4,19 @@ public class Names {
     System.out.println("Hello!");
   }
 
+  public static void messageFromYvonne() {
+    System.out.println("tired of coding but this is fun :)");
+  }
 
+  public static void sayHey(){
+    System.out.println("Hey");
+  }
+
+
+  public static void priankHello()
+  {
+    System.out.println("Happy Thursday!");
+  }
   public static void paulHello() {
     System.out.println("Hiii!");
   }
@@ -24,13 +36,20 @@ public class Names {
   
   public static void main(String[] args) {
     secretMessage();
+
+    priankHello();
+    sayHey();
     paulHello();
+
     sebastianHello();
     makeTriangle(4);
     josephineNew();
+    messageFromYvonne();
   }
 
   public static void josephineNew() {
     System.out.println("Hello world");
+
   }
+
 }
