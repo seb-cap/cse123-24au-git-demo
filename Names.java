@@ -12,4 +12,8 @@ public class Names {
     secretMessage();
     sebastianHello();
   }
+
+  public static void josephineNew() {
+    System.out.println("Hello world");
+  }
 }
