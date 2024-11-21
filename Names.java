@@ -11,10 +11,14 @@ public class Names {
       }
       System.out.println();
     }
+  
+    public static void sebastianHello() {
+    System.out.println("Happy THursday!");
   }
   
   public static void main(String[] args) {
     secretMessage();
+    sebastianHello();
     makeTriangle(4);
   }
 }
