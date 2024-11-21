@@ -4,6 +4,11 @@ public class Names {
     System.out.println("Hello!");
   }
 
+
+  public static void paulHello() {
+    System.out.println("Hiii!");
+  }
+
   public static void makeTriangle(int rows){
     for (int row = 0; row < rows; row++){
       for (int col = 0; col <= row; col++){
@@ -11,13 +16,15 @@ public class Names {
       }
       System.out.println();
     }
+  }
   
-    public static void sebastianHello() {
+  public static void sebastianHello() {
     System.out.println("Happy THursday!");
   }
   
   public static void main(String[] args) {
     secretMessage();
+    paulHello();
     sebastianHello();
     makeTriangle(4);
   }
