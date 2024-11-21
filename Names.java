@@ -27,6 +27,7 @@ public class Names {
     paulHello();
     sebastianHello();
     makeTriangle(4);
+    josephineNew();
   }
 
   public static void josephineNew() {
