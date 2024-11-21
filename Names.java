@@ -4,6 +4,10 @@ public class Names {
     System.out.println("Hello!");
   }
 
+  public static void messageFromYvonne() {
+    System.out.println("tired of coding but this is fun :)");
+  }
+
   public static void sayHey(){
     System.out.println("Hey");
   }
@@ -31,6 +35,7 @@ public class Names {
     paulHello();
     sebastianHello();
     makeTriangle(4);
+    messageFromYvonne();
   }
 
   public static void josephineNew() {
