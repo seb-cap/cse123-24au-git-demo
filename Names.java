@@ -4,6 +4,9 @@ public class Names {
     System.out.println("Hello!");
   }
 
+  public static void sayHey(){
+    System.out.println("Hey");
+  }
 
 
   public static void priankHello()
@@ -31,8 +34,7 @@ public class Names {
     secretMessage();
 
     priankHello();
-
-
+    sayHey();
     paulHello();
 
     sebastianHello();
@@ -43,4 +45,5 @@ public class Names {
     System.out.println("Hello world");
 
   }
+
 }
