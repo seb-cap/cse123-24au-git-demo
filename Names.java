@@ -33,6 +33,10 @@ public class Names {
   public static void sebastianHello() {
     System.out.println("Happy THursday!");
   }
+
+  public static void sebastian2() {
+    System.out.println("Howdy!");
+  }
   
   public static void main(String[] args) {
     secretMessage();
